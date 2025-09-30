@@ -1,0 +1,83 @@
+[
+  {
+    "chileno": "Alexis Sánchez",
+    "goles": 51,
+    "partidos": 166,
+    "foto": "https://francys-vs.github.io/Ejercicio-Clase-CSV-JSON-XML/Fotos/alexis.jpg",
+    "estado": "activo", 
+    "años activo": null
+  },
+  {
+    "chileno": "Eduardo Vargas",
+    "goles": 45,
+    "partidos": 119,
+    "foto": "https://francys-vs.github.io/Ejercicio-Clase-CSV-JSON-XML/Fotos/vargas.jpg",
+    "estado": "activo", 
+    "años activo": null
+  },
+  {
+    "chileno": "Marcelo Salas",
+    "goles": 37,
+    "partidos": 70,
+    "foto": "https://francys-vs.github.io/Ejercicio-Clase-CSV-JSON-XML/Fotos/marcelosalas.jpg",
+    "estado": "retirado",
+    "años activo": [1994,2007]
+  },
+  {
+    "chileno": "Iván Zamorano",
+    "goles": 34,
+    "partidos": 69,
+    "foto": "https://francys-vs.github.io/Ejercicio-Clase-CSV-JSON-XML/Fotos/zamorano.jpg",
+    "estado": "retirado", 
+    "años activo": [1987,2001]
+  },
+  {
+    "chileno": "Arturo Vidal",
+    "goles": 34,
+    "partidos": 144,
+    "foto": "https://francys-vs.github.io/Ejercicio-Clase-CSV-JSON-XML/Fotos/vidal.jpg",
+    "estado": "activo", 
+    "años activo": null
+  },
+  {
+    "chileno": "Carlos Caszely",
+    "goles": 29,
+    "partidos": 49,
+    "foto": "https://francys-vs.github.io/Ejercicio-Clase-CSV-JSON-XML/Fotos/caszely.jpg",
+    "estado": "retirado", 
+    "años activo": [1969,1985]
+  },
+  {
+    "chileno": "Leonel Sánchez",
+    "goles": 24,
+    "partidos": 85,
+    "foto": "https://francys-vs.github.io/Ejercicio-Clase-CSV-JSON-XML/Fotos/sanchez.jpg",
+    "estado": "retirado", 
+    "años activo": [1956,1968]
+  },
+  {
+    "chileno": "Jorge Aravena",
+    "goles": 22,
+    "partidos": 37,
+    "foto": "https://francys-vs.github.io/Ejercicio-Clase-CSV-JSON-XML/Fotos/aravena.jpg",
+    "estado": "retirado", 
+    "años activo": [1983,1990]
+
+  },
+  {
+    "chileno": "Humberto Suazo",
+    "goles": 21,
+    "partidos": 60,
+    "foto": "https://francys-vs.github.io/Ejercicio-Clase-CSV-JSON-XML/Fotos/suazo.jpg",
+    "estado": "activo",
+    "años activo": null 
+  },
+  {
+    "chileno": "Juan Carlos Letelier",
+    "goles": 18,
+    "partidos": 57,
+    "foto": "https://francys-vs.github.io/Ejercicio-Clase-CSV-JSON-XML/Fotos/letelier.jpg",
+    "estado": "retirado",
+    "años activo": [1979,1989]
+  }
+]
